@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.venv/
+corpora/
+tokenizers/
+spam-detection.ipynb
+spam.csv

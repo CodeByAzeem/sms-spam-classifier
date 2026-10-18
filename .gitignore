@@ -2,5 +2,5 @@
 .venv/
 corpora/
 tokenizers/
-spam-detection.ipynb
-spam.csv
+data/
+src/
